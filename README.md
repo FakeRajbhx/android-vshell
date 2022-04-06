@@ -10,3 +10,10 @@ Originally creator by ```@xeffyr```
 * [Java installation in vShell](https://youtu.be/AO6jRrGT4UE)
 * [Docker installation in vShell](https://youtu.be/1bmvwzZETLw)
 
+# Alpine Term App
+* GitHub
+https://github.com/FakeRajbhx/alpine-term
+* Blog
+https://jarvisstaraq.blogspot.com/2022/04/how-to-install-and-setup-alpine-term-in.html
+* YouTube link
+https://youtu.be/hvb7o9jhFQw
