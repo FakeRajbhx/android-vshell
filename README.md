@@ -1,11 +1,12 @@
 # android-vshell
-Original creator by @xeffyr
+Originally creator by ```@xeffyr```
 
-# Download link
-https://jarvisstaraq.blogspot.com/2021/05/how-to-install-and-setup-xeffyrandroid.html
+# ANDROID-VSHELL APP
 
-# blogs link 
-https://vshell-android.blogspot.com/?m=1
+### Blog link
+[android-vshell app blog](https://jarvisstaraq.blogspot.com/2021/05/how-to-install-and-setup-xeffyrandroid.html)
+#### YouTube video link
+* [How to setup](https://youtu.be/V_fU-RPi5J8)
+* [Java installation](https://youtu.be/AO6jRrGT4UE)
+* [Docker installation](https://youtu.be/1bmvwzZETLw)
 
-# YouTube video
-https://youtu.be/1bmvwzZETLw
